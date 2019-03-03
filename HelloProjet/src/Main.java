@@ -6,5 +6,4 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
     }
-ÄãºÃ³åÍ»2
-}
+ÄãºÃ°¡³åÍ»ÄãºÃ³åÍ»2}
